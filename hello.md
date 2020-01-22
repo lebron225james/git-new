@@ -1,3 +1,3 @@
 # git教程
 
-add feature-A
+add feature-B
